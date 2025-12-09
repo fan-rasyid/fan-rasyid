@@ -1,11 +1,15 @@
 # <summary><strong>Hi there :wave: , I'm Irfan!</strong></summary>
 Lifelong Learner, currently working as Fullstack Developer.
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> -->
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
 <p>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Language-PHP-777BB4?&logo=php&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Language-JavaScript-F7DF1E?&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Language-Go-00ADD8?&logo=go&logoColor=fff" />
+    <img src="https://img.shields.io/badge/Framework-Laravel-FF2D20?&logo=laravel&logoColor=fff" />
 </p>
 
 ### <summary><strong>Yosh!</strong></summary>
