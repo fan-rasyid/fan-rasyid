@@ -1,6 +1,6 @@
 # <summary><strong>Hi there :wave: , I'm Irfan!</strong></summary>
 Lifelong Learner, currently working as Fullstack Developer.
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=goonesmile&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fan-rasyid&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" /> 
 </p>
 
 ### <summary><strong>Tools:</strong></summary>
